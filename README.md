@@ -10,6 +10,7 @@
   - OL
   - PSG
   - OM
+   -arsenal
 
 ####
 
