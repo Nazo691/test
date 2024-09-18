@@ -1,19 +1,20 @@
-# LE PROGRES 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
 
-## FAIS DIVERS 
+<h1>Alternant tech informatique</h1>
+<p>Alternant.</p>
 
-## SPORT
+</body>
 
-### FOOT
+<body>
 
-  #### PREMIER LIGUE
-  - OL
-  - PSG
-  - OM
-   -arsenal
+<h2>The src Attribute</h2>
+<p>HTML images are defined with the img tag, and the filename of the image source is specified in the src attribute:</p>
 
-####
+<img src="../DEV/capture.png" width="500" height="600">
 
-### BASKET
-
-## POLITIQUE
+</body>
